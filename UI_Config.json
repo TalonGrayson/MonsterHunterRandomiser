@@ -1,0 +1,42 @@
+{
+  "output_file": "Settings/settings.json",
+  "RandomMonsterCommand": {
+    "type": "textbox",
+    "value": "!monster",
+    "label": "Command",
+    "tooltip": "The command that will be responded to.",
+    "group": "Settings"
+  },
+  "RandomMonsterEnabled": {
+    "type": "checkbox",
+    "value": false,
+    "label": "Monsters Enabled",
+    "tooltip": "Enable random monster command",
+    "group": "Settings"
+  },
+  "RandomWeaponCommand": {
+    "type": "textbox",
+    "value": "!weapon",
+    "label": "Command",
+    "tooltip": "The command that will be responded to.",
+    "group": "Settings"
+  },
+  "RandomWeaponEnabled": {
+    "type": "checkbox",
+    "value": false,
+    "label": "Weapons Enabled",
+    "tooltip": "Enable random weapon command",
+    "group": "Settings"
+  },
+  "MonsterHunterGame": {
+    "type": "dropdown",
+    "label": "MH Game",
+    "value": "World",
+    "tooltip": "This will determine the weapon and monster list.",
+    "items": [
+      "World",
+      "Rise"
+    ],
+    "group": "Settings"
+  }
+}
