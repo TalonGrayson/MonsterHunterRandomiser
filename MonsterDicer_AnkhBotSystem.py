@@ -91,7 +91,6 @@ def Init():
         Parent.SendTwitchMessage('Updating monster list...')
         r = Parent.GetRequest('https://tagonist-staging.herokuapp.com/dnd5eclasses.json', {"ContentType": "application/json"})
         data = json.loads(r)
-        #r =requests.get('https://xkcd.com/1906/')
         
         Parent.SendTwitchMessage(data["error"])
         
