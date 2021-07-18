@@ -3,5 +3,21 @@
   "RandomMonsterEnabled": true,
   "RandomWeaponCommand": "!weapon",
   "RandomWeaponEnabled": true,
-  "MonsterHunterGame": "Rise"
+  "MonsterHunterGame": "World",
+  "RandomQuestCommand": "!quest",
+  "RandomQuestEnabled": true,
+  "IncludeVillage": false,
+  "IncludeHub": true,
+  "IncludeLowRank": false,
+  "IncludeHighRank": true,
+  "IncludeSmallMonsters": false,
+  "MinimumStar": "1",
+  "IncludeDeliverQuests": false,
+  "IncludeHuntQuests": true,
+  "IncludeSlayQuests": true,
+  "IncludeCaptureQuests": true,
+  "IncludeNonMonster": false,
+  "IncludeArenas": false,
+  "IncludeChallenges": false,
+  "IncludeEvents": false
 };

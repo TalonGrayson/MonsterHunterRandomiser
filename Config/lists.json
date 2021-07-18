@@ -1,5 +1,4 @@
-{
-  "test": "Hello, world!",
+﻿{
   "monsters": {
     "world": [
                "Acidic Glavenus",
@@ -158,6 +157,7 @@
              ]
   },
   "quests": {
+    "world": [],
     "rise": [
               {
                 "name": "Roly-poly Lanterns",
