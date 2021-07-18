@@ -3,7 +3,7 @@
   "RandomMonsterEnabled": true,
   "RandomWeaponCommand": "!weapon",
   "RandomWeaponEnabled": true,
-  "MonsterHunterGame": "Rise",
+  "MonsterHunterGame": "World",
   "RandomQuestCommand": "!quest",
   "RandomQuestEnabled": true,
   "IncludeVillage": false,
@@ -16,5 +16,8 @@
   "IncludeHuntQuests": true,
   "IncludeSlayQuests": true,
   "IncludeCaptureQuests": true,
-  "IncludeNonMonster": false
+  "IncludeNonMonster": false,
+  "IncludeArenas": false,
+  "IncludeChallenges": false,
+  "IncludeEvents": false
 }

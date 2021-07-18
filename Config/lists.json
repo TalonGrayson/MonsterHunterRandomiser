@@ -157,6 +157,7 @@
              ]
   },
   "quests": {
+    "world": [],
     "rise": [
               {
                 "name": "Roly-poly Lanterns",
@@ -1975,8 +1976,7 @@
                 "stars": 2, "target": ["Tetranadon"],
                 "quest_type": "Challenge",
                 "hunt_type": "Slay",
-                "large_monster": true
-              }
+                "large_monster": true}
             ]
   }
 }

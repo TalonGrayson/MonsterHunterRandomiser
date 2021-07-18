@@ -14,13 +14,11 @@ ScriptName = "Monster Hunter Randomiser"
 Website = "https://www.twitch.tv/talongrayson"
 Description = "Adds Monster Hunter randomisation commands to chat"
 Creator = "TalonGrayson"
-Version = "1.0"
+Version = "2.0"
 
 m_ConfigFile = os.path.join(os.path.dirname(__file__), "Settings/settings.json")
 m_ConfigFileJs = os.path.join(os.path.dirname(__file__), "Settings/settings.js")
 
-# m_MonsterListFile = os.path.join(os.path.dirname(__file__), "Config/monster_list.json")
-# m_WeaponListFile = os.path.join(os.path.dirname(__file__), "Config/weapon_list.json")
 m_ListsFile = os.path.join(os.path.dirname(__file__), "Config/lists.json")
 
 #---------------------------
@@ -50,6 +48,7 @@ def Init():
         text_file.close()
 
     updateLists()
+    filterQuestList()
     return
 
 #---------------------------------------
@@ -76,13 +75,16 @@ def Execute(data):
                     result = random.choice(weapon_list)
                     Parent.SendTwitchMessage('Get ready to equip your ' + result + '!')
 
-            # Random Quest
+            # Random Quest - RISE ONLY
             if data.GetParam(0).lower() == MySettings.RandomQuestCommand.lower():
                 if MySettings.RandomQuestEnabled:
-                    quest_list = Lists["quests"]["rise"]
-                    result = random.choice(quest_list)
-                    result_msg = questMsg(result)
-                    Parent.SendTwitchMessage(result_msg)
+                    if len(filteredQuestList) > 0:
+                        quest_list = filteredQuestList
+                        result = random.choice(quest_list)
+                        result_msg = questMsg(result)
+                        Parent.SendTwitchMessage(result_msg)
+                    else:
+                        Parent.SendTwitchMessage("Uh oh... it looks like your Monster Hunter Randomiser settings are filtering all the quests out :(")
         else:
             Parent.SendTwitchMessage(data.User, 'Sorry, ' + data.GetParams(0) + ' is for subscribers only!')
 
@@ -105,12 +107,65 @@ def ReloadSettings(jsonData):
 #   My methods
 #---------------------------
 
+def filterQuestList():
+    global filteredQuestList
+    gameFilteredQuestList = []
+    starFilteredQuestList = []
+    rankFilteredQuestList = []
+    huntTypeFilteredQuestList = []
+    filteredQuestList = []
+
+    gameFilteredQuestList = Lists["quests"][MySettings.MonsterHunterGame.lower()]
+
+    stars = int(MySettings.MinimumStar)
+
+    starFilteredQuestList = [quest for quest in gameFilteredQuestList if quest["stars"] >= stars]
+
+
+    if MySettings.IncludeLowRank:
+        rankFilteredQuestList.extend(quest for quest in starFilteredQuestList if quest["rank"] == "Low")
+
+    if MySettings.IncludeHighRank:
+        rankFilteredQuestList.extend(quest for quest in starFilteredQuestList if quest["rank"] == "High")
+
+
+    if MySettings.IncludeDeliverQuests:
+        huntTypeFilteredQuestList.extend(quest for quest in rankFilteredQuestList if quest["hunt_type"] == "Deliver")
+
+    if MySettings.IncludeHuntQuests:
+        huntTypeFilteredQuestList.extend(quest for quest in rankFilteredQuestList if quest["hunt_type"] == "Hunt")
+
+    if MySettings.IncludeSlayQuests:
+        huntTypeFilteredQuestList.extend(quest for quest in rankFilteredQuestList if quest["hunt_type"] == "Slay")
+
+    if MySettings.IncludeCaptureQuests:
+        huntTypeFilteredQuestList.extend(quest for quest in rankFilteredQuestList if quest["hunt_type"] == "Capture")
+    
+
+    if MySettings.IncludeVillage:
+        filteredQuestList.extend(quest for quest in huntTypeFilteredQuestList if quest["quest_type"] == "Village")
+
+    if MySettings.IncludeHub:
+        filteredQuestList.extend(quest for quest in huntTypeFilteredQuestList if quest["quest_type"] == "Hub")
+
+    if MySettings.IncludeEvents:
+        filteredQuestList.extend(quest for quest in huntTypeFilteredQuestList if quest["quest_type"] == "Event")
+
+    if MySettings.IncludeArenas:
+        filteredQuestList.extend(quest for quest in huntTypeFilteredQuestList if quest["quest_type"] == "Arena")
+
+    if MySettings.IncludeChallenges:
+        filteredQuestList.extend(quest for quest in huntTypeFilteredQuestList if quest["quest_type"] == "Challenge")
+
+    return
+
 def questMsg(result):
     target = formatTarget(result["target"])
     msg = result["name"] + ": " + result["hunt_type"] + " " + target + " - " + result["rank"] + " Rank (" + str(result["stars"]) + " star) " + result["quest_type"] + " Quest"
     return msg
 
 def formatTarget(targets):
+    targets = list(targets)
     n = len(targets)
     str = ""
 
