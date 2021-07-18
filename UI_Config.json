@@ -5,28 +5,135 @@
     "value": "!monster",
     "label": "Command",
     "tooltip": "The command that will be responded to.",
-    "group": "Settings"
+    "group": "Command Settings"
   },
   "RandomMonsterEnabled": {
     "type": "checkbox",
-    "value": false,
+    "value": true,
     "label": "Monsters Enabled",
     "tooltip": "Enable random monster command",
-    "group": "Settings"
+    "group": "Command Settings"
   },
   "RandomWeaponCommand": {
     "type": "textbox",
     "value": "!weapon",
     "label": "Command",
     "tooltip": "The command that will be responded to.",
-    "group": "Settings"
+    "group": "Command Settings"
   },
   "RandomWeaponEnabled": {
     "type": "checkbox",
-    "value": false,
+    "value": true,
     "label": "Weapons Enabled",
     "tooltip": "Enable random weapon command",
-    "group": "Settings"
+    "group": "Command Settings"
+  },
+  "RandomQuestCommand": {
+    "type": "textbox",
+    "value": "!quest",
+    "label": "Command",
+    "tooltip": "The command that will be responded to.",
+    "group": "Command Settings"
+  },
+  "RandomQuestEnabled": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Quests Enabled",
+    "tooltip": "Enable random monster command",
+    "group": "Command Settings"
+  },
+  "MinimumStar": {
+    "type": "dropdown",
+    "label": "Minimum Stars",
+    "value": 1,
+    "tooltip": "This will determine the minimum star rating for the randomly selected quests.",
+    "items": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeVillage": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Village Quests Enabled",
+    "tooltip": "Enable village quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeHub": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Hub Quests Enabled",
+    "tooltip": "Enable hub quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeLowRank": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Low Rank Quests Enabled",
+    "tooltip": "Enable low rank quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeHighRank": {
+    "type": "checkbox",
+    "value": true,
+    "label": "High Rank Quests Enabled",
+    "tooltip": "Enable high rank quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeArenas": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Arena Quests Enabled",
+    "tooltip": "Enable arena quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeChallenges": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Challenge Quests Enabled",
+    "tooltip": "Enable challenge quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeDeliverQuests": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Delivery Quests Enabled",
+    "tooltip": "Enable delivery quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeHuntQuests": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Hunt Quests Enabled",
+    "tooltip": "Enable hunt quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeSlayQuests": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Slay Quests Enabled",
+    "tooltip": "Enable slay quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeCaptureQuests": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Capture Quests Enabled",
+    "tooltip": "Enable capture quests",
+    "group": "MH:Rise Quest Settings"
+  },
+  "IncludeSmallMonsters": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Small Monster Quests Enabled",
+    "tooltip": "Enable small monster quests",
+    "group": "MH:Rise Quest Settings"
   },
   "MonsterHunterGame": {
     "type": "dropdown",
@@ -37,6 +144,6 @@
       "World",
       "Rise"
     ],
-    "group": "Settings"
+    "group": "Game Settings"
   }
 }

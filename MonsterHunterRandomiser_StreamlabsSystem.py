@@ -1,7 +1,7 @@
 #---------------------------------------
 # Import Libraries
 #---------------------------------------
-import sys, os, json, clr, codecs, random
+import sys, os, json, clr, codecs, random, logging
 sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
 clr.AddReference("IronPython.SQLite.dll")
 clr.AddReference("IronPython.Modules.dll")
@@ -19,8 +19,9 @@ Version = "1.0"
 m_ConfigFile = os.path.join(os.path.dirname(__file__), "Settings/settings.json")
 m_ConfigFileJs = os.path.join(os.path.dirname(__file__), "Settings/settings.js")
 
-m_MonsterListFile = os.path.join(os.path.dirname(__file__), "Config/monster_list.json")
-m_WeaponListFile = os.path.join(os.path.dirname(__file__), "Config/weapon_list.json")
+# m_MonsterListFile = os.path.join(os.path.dirname(__file__), "Config/monster_list.json")
+# m_WeaponListFile = os.path.join(os.path.dirname(__file__), "Config/weapon_list.json")
+m_ListsFile = os.path.join(os.path.dirname(__file__), "Config/lists.json")
 
 #---------------------------
 #   Define Global Variables
@@ -48,7 +49,7 @@ def Init():
         text_file.write(jsFile)
         text_file.close()
 
-    setLists()
+    updateLists()
     return
 
 #---------------------------------------
@@ -64,18 +65,26 @@ def Execute(data):
             # Random Monster
             if data.GetParam(0).lower() == MySettings.RandomMonsterCommand.lower():
                 if MySettings.RandomMonsterEnabled:
-                    monster_list = json.loads(monster_lists)[game]
+                    monster_list = Lists["monsters"][game]
                     result = random.choice(monster_list)
                     Parent.SendTwitchMessage('Get ready to hunt ' + result + '!')
 
             # Random Weapon
             if data.GetParam(0).lower() == MySettings.RandomWeaponCommand.lower():
                 if MySettings.RandomWeaponEnabled:
-                    weapon_list = json.loads(weapon_lists)[game]
+                    weapon_list = Lists["weapons"][game]
                     result = random.choice(weapon_list)
                     Parent.SendTwitchMessage('Get ready to equip your ' + result + '!')
+
+            # Random Quest
+            if data.GetParam(0).lower() == MySettings.RandomQuestCommand.lower():
+                if MySettings.RandomQuestEnabled:
+                    quest_list = Lists["quests"]["rise"]
+                    result = random.choice(quest_list)
+                    result_msg = questMsg(result)
+                    Parent.SendTwitchMessage(result_msg)
         else:
-            Parent.SendStreamWhisper(data.User, 'Sorry, ' + data.GetParams(0) + ' is for subscribers only!')
+            Parent.SendTwitchMessage(data.User, 'Sorry, ' + data.GetParams(0) + ' is for subscribers only!')
 
     return
 
@@ -96,25 +105,33 @@ def ReloadSettings(jsonData):
 #   My methods
 #---------------------------
 
-def updateMonsterLists():
-    r = Parent.GetRequest(
-                'https://api.github.com/repos/talongrayson/monsterhunterrandomiser/contents/Config/monster_list.json',
-                {"Accept": "application/vnd.github.v3.raw"}
-                )
+def questMsg(result):
+    target = formatTarget(result["target"])
+    msg = result["name"] + ": " + result["hunt_type"] + " " + target + " - " + result["rank"] + " Rank (" + str(result["stars"]) + " star) " + result["quest_type"] + " Quest"
+    return msg
 
-    data = json.loads(r)
+def formatTarget(targets):
+    n = len(targets)
+    str = ""
 
-    lists = data["response"]
+    if n == 1:
+        str = targets[0]
+    elif n == 2:
+        str = targets[0] + " and " + targets[1]
+    else:
+        for i, target in enumerate(targets):
+            if i < n-1:
+                str += target + ", "
+            else:
+                str += "and " + target
 
-    text_file = codecs.open(m_MonsterListFile, encoding='utf-8-sig',mode='w')
-    text_file.write(lists)
-    text_file.close()
-
-    return lists
+    return str
     
-def updateWeaponLists():
+def updateLists():
+    global Lists
+
     r = Parent.GetRequest(
-                'https://api.github.com/repos/talongrayson/monsterhunterrandomiser/contents/Config/weapon_list.json',
+                'https://api.github.com/repos/talongrayson/monsterhunterrandomiser/contents/Config/lists.json',
                 {"Accept": "application/vnd.github.v3.raw"}
                 )
 
@@ -122,15 +139,12 @@ def updateWeaponLists():
 
     lists = data["response"]
 
-    text_file = codecs.open(m_WeaponListFile, encoding='utf-8-sig',mode='w')
+    text_file = codecs.open(m_ListsFile, encoding='utf-8-sig',mode='w')
     text_file.write(lists)
     text_file.close()
 
-    return lists
+    with codecs.open(m_ListsFile, encoding='utf-8-sig', mode='r') as jsonFile:
+        Lists = json.load(jsonFile)
+        jsonFile.close()
 
-def setLists():
-    global monster_lists
-    global weapon_lists
-
-    monster_lists = updateMonsterLists()
-    weapon_lists = updateWeaponLists()
+    return
