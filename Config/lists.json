@@ -1976,15 +1976,6 @@
                 "quest_type": "Challenge",
                 "hunt_type": "Slay",
                 "large_monster": true
-              },
-              {
-                "name": "Challenge Quest 01",
-                "quest_counter": "Arena",
-                "rank": "Low",
-                "stars": 2, "target": ["Tetranadon"],
-                "quest_type": "Challenge",
-                "hunt_type": "Slay",
-                "large_monster": true
               }
             ]
   }
