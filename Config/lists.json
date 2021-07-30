@@ -163,7 +163,8 @@
                 "name": "Roly-poly Lanterns",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 1, "target": ["Firelanterns"],
+                "stars": 1,
+                "target": ["Firelanterns"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -172,7 +173,8 @@
                 "name": "Fungal Frustrations",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 1, "target": ["Unique Mushrooms"],
+                "stars": 1,
+                "target": ["Unique Mushrooms"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": true
@@ -181,7 +183,8 @@
                 "name": "Unpious Peons",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 1, "target": ["Jagras"],
+                "stars": 1,
+                "target": ["Jagras"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -190,7 +193,8 @@
                 "name": "Help With Maintenance",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 1, "target": ["Izuchi"],
+                "stars": 1,
+                "target": ["Izuchi"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -199,7 +203,8 @@
                 "name": "Grizzly Glutton",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Arzuros"],
+                "stars": 2,
+                "target": ["Arzuros"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -208,7 +213,8 @@
                 "name": "Plump and Juicy",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Raftshells"],
+                "stars": 2,
+                "target": ["Raftshells"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -217,7 +223,8 @@
                 "name": "A Frosty Paradise",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Baggi"],
+                "stars": 2,
+                "target": ["Baggi"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -226,7 +233,8 @@
                 "name": "Out Cold",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Great Baggi"],
+                "stars": 2,
+                "target": ["Great Baggi"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -235,7 +243,8 @@
                 "name": "Rabid Rabbit",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Lagombi"],
+                "stars": 2,
+                "target": ["Lagombi"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -244,7 +253,8 @@
                 "name": "Great Izuchi, Great Pain",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Great Izuchi"],
+                "stars": 2,
+                "target": ["Great Izuchi"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -253,7 +263,8 @@
                 "name": "Case of the Creepy Crawlies",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Altaroth", "Bnahabra"],
+                "stars": 2,
+                "target": ["Altaroth", "Bnahabra"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -262,7 +273,8 @@
                 "name": "Hmm, Not So Tasty",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 2, "target": ["Popo Tongues"],
+                "stars": 2,
+                "target": ["Popo Tongues"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": true
@@ -271,7 +283,8 @@
                 "name": "Can't Stomach the Thought",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Tetranadon"],
+                "stars": 3,
+                "target": ["Tetranadon"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -280,7 +293,8 @@
                 "name": "Walking on Eggshells",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Kulu-Ya-Ku"],
+                "stars": 3,
+                "target": ["Kulu-Ya-Ku"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -289,7 +303,8 @@
                 "name": "Fightin' Dirty",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Barroth"],
+                "stars": 3,
+                "target": ["Barroth"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -298,7 +313,8 @@
                 "name": "Obnoxious Lord, Noxious Monster",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Great Wroggi"],
+                "stars": 3,
+                "target": ["Great Wroggi"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -307,7 +323,8 @@
                 "name": "Spongy Oasis",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Royal Ludroth"],
+                "stars": 3,
+                "target": ["Royal Ludroth"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -316,7 +333,8 @@
                 "name": "Feathered Frenzy",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Aknosom"],
+                "stars": 3,
+                "target": ["Aknosom"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -325,7 +343,8 @@
                 "name": "Supply Run",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Classic Dango Ingredients"],
+                "stars": 3,
+                "target": ["Classic Dango Ingredients"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -334,7 +353,8 @@
                 "name": "Faceless Foe",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Khezu"],
+                "stars": 3,
+                "target": ["Khezu"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -343,7 +363,8 @@
                 "name": "The Cactus Diet",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Bauble Cactus"],
+                "stars": 3,
+                "target": ["Bauble Cactus"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -352,7 +373,8 @@
                 "name": "A Sandy Cabal",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Jaggi", "Jaggia"],
+                "stars": 3,
+                "target": ["Jaggi", "Jaggia"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -361,7 +383,8 @@
                 "name": "Breath of the Past",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Simple Prisms"],
+                "stars": 3,
+                "target": ["Simple Prisms"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -370,7 +393,8 @@
                 "name": "Ladies of the Lake",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 3, "target": ["Ludroth"],
+                "stars": 3,
+                "target": ["Ludroth"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -379,7 +403,8 @@
                 "name": "Infernal Lacrimosa",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Somnacanth"],
+                "stars": 4,
+                "target": ["Somnacanth"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -388,7 +413,8 @@
                 "name": "Raging White-out",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Barioth"],
+                "stars": 4,
+                "target": ["Barioth"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -397,7 +423,8 @@
                 "name": "The Queen's Procession",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Rathian"],
+                "stars": 4,
+                "target": ["Rathian"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -406,7 +433,8 @@
                 "name": "Streaking Shadow",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Tobi-Kadachi"],
+                "stars": 4,
+                "target": ["Tobi-Kadachi"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -415,7 +443,8 @@
                 "name": "A Song of Red and Fire",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Volvidon"],
+                "stars": 4,
+                "target": ["Volvidon"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -424,7 +453,8 @@
                 "name": "Off Your Rocker",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Basarios"],
+                "stars": 4,
+                "target": ["Basarios"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -433,7 +463,8 @@
                 "name": "Monkey Wrench in Your Plans",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Bishaten"],
+                "stars": 4,
+                "target": ["Bishaten"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -442,7 +473,8 @@
                 "name": "Getting Back the Groceries",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Secret Dango Ingredients"],
+                "stars": 4,
+                "target": ["Secret Dango Ingredients"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -451,7 +483,8 @@
                 "name": "A Poisonous Project",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Pukei-Pukei"],
+                "stars": 4,
+                "target": ["Pukei-Pukei"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -460,7 +493,8 @@
                 "name": "Deliver the Liver",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Monster Guts"],
+                "stars": 4,
+                "target": ["Monster Guts"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -469,7 +503,8 @@
                 "name": "So Hot, It Melts Iron",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Coal"],
+                "stars": 4,
+                "target": ["Coal"],
                 "quest_type": "Village",
                 "hunt_type": "Deliver",
                 "large_monster": false
@@ -478,7 +513,8 @@
                 "name": "THE BEST Quest",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Rachnoid"],
+                "stars": 4,
+                "target": ["Rachnoid"],
                 "quest_type": "Village",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -487,7 +523,8 @@
                 "name": "Third Wheel",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 4, "target": ["Arzuros", "Tetranadon"],
+                "stars": 4,
+                "target": ["Arzuros", "Tetranadon"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -496,7 +533,8 @@
                 "name": "Wind Speed Wyvern",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Nargacuga"],
+                "stars": 5,
+                "target": ["Nargacuga"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -505,7 +543,8 @@
                 "name": "Electrifying Epiphany",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Zinogre"],
+                "stars": 5,
+                "target": ["Zinogre"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -514,7 +553,8 @@
                 "name": "Nocturnal Tracker",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Anjanath"],
+                "stars": 5,
+                "target": ["Anjanath"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -523,7 +563,8 @@
                 "name": "Waltzing by Moonlight",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Mizutsune"],
+                "stars": 5,
+                "target": ["Mizutsune"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -532,7 +573,8 @@
                 "name": "Rathalos Alert!",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Rathalos"],
+                "stars": 5,
+                "target": ["Rathalos"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -541,7 +583,8 @@
                 "name": "Comeuppance",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Magnamalo"],
+                "stars": 5,
+                "target": ["Magnamalo"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -550,7 +593,8 @@
                 "name": "The Secret Ingredient",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Somnacanth"],
+                "stars": 5,
+                "target": ["Somnacanth"],
                 "quest_type": "Village",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -559,7 +603,8 @@
                 "name": "BZZZZZ or ZZZZzzzz",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Khezu", "Somnacanth"],
+                "stars": 5,
+                "target": ["Khezu", "Somnacanth"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -568,7 +613,8 @@
                 "name": "Nosey Nuisances",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Kulu-Ya-Ku", "Anjanath"],
+                "stars": 5,
+                "target": ["Kulu-Ya-Ku", "Anjanath"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -577,7 +623,8 @@
                 "name": "The Hottest Around",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Tetranadon", "Volvidon"],
+                "stars": 5,
+                "target": ["Tetranadon", "Volvidon"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -586,7 +633,8 @@
                 "name": "Hermit of the Swamp",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Almudron"],
+                "stars": 5,
+                "target": ["Almudron"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -595,7 +643,8 @@
                 "name": "Abominable Snow-beast",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Goss Harag"],
+                "stars": 5,
+                "target": ["Goss Harag"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -604,7 +653,8 @@
                 "name": "Thundering Voice",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Tigrex"],
+                "stars": 5,
+                "target": ["Tigrex"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -613,7 +663,8 @@
                 "name": "Twisted Desire",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Diablos"],
+                "stars": 5,
+                "target": ["Diablos"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -622,7 +673,8 @@
                 "name": "A Test of Courage",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Magnamalo", "Zinogre"],
+                "stars": 5,
+                "target": ["Magnamalo", "Zinogre"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -631,7 +683,8 @@
                 "name": "Like a Flash of Lightning",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Tobi-Kadachi", "Mizutsune"],
+                "stars": 5,
+                "target": ["Tobi-Kadachi", "Mizutsune"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -640,7 +693,8 @@
                 "name": "King of the Sky, Bane of the Land",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Rathalos", "Tigrex"],
+                "stars": 5,
+                "target": ["Rathalos", "Tigrex"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -649,7 +703,8 @@
                 "name": "Advanced: The Veterans' Gala",
                 "quest_counter": "Village",
                 "rank": "Low",
-                "stars": 5, "target": ["Rajang", "Bazelgeuse", "Magnamalo"],
+                "stars": 5,
+                "target": ["Rajang", "Bazelgeuse", "Magnamalo"],
                 "quest_type": "Village",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -658,7 +713,8 @@
                 "name": "Shady Monster",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Aknosom"],
+                "stars": 1,
+                "target": ["Aknosom"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -667,7 +723,8 @@
                 "name": "Tired and Feathered",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Kulu-Ya-Ku"],
+                "stars": 1,
+                "target": ["Kulu-Ya-Ku"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -676,7 +733,8 @@
                 "name": "Jumped in the Frost Islands",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Great Izuchi"],
+                "stars": 1,
+                "target": ["Great Izuchi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -685,7 +743,8 @@
                 "name": "No Cure for the Common Baggi",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Baggi"],
+                "stars": 1,
+                "target": ["Baggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": false
@@ -694,7 +753,8 @@
                 "name": "A Snowball's Chance",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Lagombi"],
+                "stars": 1,
+                "target": ["Lagombi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -703,7 +763,8 @@
                 "name": "Wroggi Place, Wroggi Time",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Woggi"],
+                "stars": 1,
+                "target": ["Woggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": false
@@ -712,7 +773,8 @@
                 "name": "A Grizzly Encounter",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Arzuros"],
+                "stars": 1,
+                "target": ["Arzuros"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -721,7 +783,8 @@
                 "name": "Off the Beaten Path",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Izuchi", "Altaroth"],
+                "stars": 1,
+                "target": ["Izuchi", "Altaroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -730,7 +793,8 @@
                 "name": "Hot Topic Hooligans",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Zamite", "Bnahabra"],
+                "stars": 1,
+                "target": ["Zamite", "Bnahabra"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -739,7 +803,8 @@
                 "name": "I Want Off This Ride",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Bishaten"],
+                "stars": 2,
+                "target": ["Bishaten"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -748,7 +813,8 @@
                 "name": "Way of the Pukei",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Pukei-Pukei"],
+                "stars": 2,
+                "target": ["Pukei-Pukei"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -757,7 +823,8 @@
                 "name": "The Flooding Flooded Forest",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Royal Ludroth"],
+                "stars": 2,
+                "target": ["Royal Ludroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -766,7 +833,8 @@
                 "name": "So Muddy Hardheaded!",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Barroth"],
+                "stars": 2,
+                "target": ["Barroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -775,7 +843,8 @@
                 "name": "A Pale Shadow",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Khezu"],
+                "stars": 2,
+                "target": ["Khezu"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -784,7 +853,8 @@
                 "name": "Reinventing the Wheel",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Volvidon"],
+                "stars": 2,
+                "target": ["Volvidon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -793,7 +863,8 @@
                 "name": "Blasted Basarios!",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Basarios"],
+                "stars": 2,
+                "target": ["Basarios"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -802,7 +873,8 @@
                 "name": "The Path to Royalty",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Rathian"],
+                "stars": 2,
+                "target": ["Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -811,7 +883,8 @@
                 "name": "Dead Ringer",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Tetranadon"],
+                "stars": 2,
+                "target": ["Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -820,7 +893,8 @@
                 "name": "Dawn of the Kestodon",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Kestodon"],
+                "stars": 2,
+                "target": ["Kestodon"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -829,7 +903,8 @@
                 "name": "Hide, Hide, Hide!",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Jagras", "Ludroth"],
+                "stars": 2,
+                "target": ["Jagras", "Ludroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -838,7 +913,8 @@
                 "name": "Bouncing Brawlers",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Lagombi", "Tetranadon"],
+                "stars": 2,
+                "target": ["Lagombi", "Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -847,7 +923,8 @@
                 "name": "Fried and Baptized",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 2, "target": ["Royal Ludroth", "Rathian"],
+                "stars": 2,
+                "target": ["Royal Ludroth", "Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -856,7 +933,8 @@
                 "name": "Beckoning Slumber",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Somnacanth"],
+                "stars": 3,
+                "target": ["Somnacanth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -865,7 +943,8 @@
                 "name": "The Blizzard Blender",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Goss Harag"],
+                "stars": 3,
+                "target": ["Goss Harag"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -874,7 +953,8 @@
                 "name": "Zigzagging Zapper",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Tobi-Kadachi"],
+                "stars": 3,
+                "target": ["Tobi-Kadachi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -883,7 +963,8 @@
                 "name": "Down 'n' Dirty",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Almudron"],
+                "stars": 3,
+                "target": ["Almudron"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -892,7 +973,8 @@
                 "name": "Bully of the Caverns",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Anjanath"],
+                "stars": 3,
+                "target": ["Anjanath"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -901,7 +983,8 @@
                 "name": "Twilit Twin Stars",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Nargacuga"],
+                "stars": 3,
+                "target": ["Nargacuga"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -910,7 +993,8 @@
                 "name": "My Muse the Mizutsune",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Mizutsune"],
+                "stars": 3,
+                "target": ["Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -919,7 +1003,8 @@
                 "name": "Champion of the Caverns",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Rathalos"],
+                "stars": 3,
+                "target": ["Rathalos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -928,7 +1013,8 @@
                 "name": "Wavering Moon and Thunder",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Zinogre"],
+                "stars": 3,
+                "target": ["Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -937,7 +1023,8 @@
                 "name": "White Knight vs. Hunter",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Barioth"],
+                "stars": 3,
+                "target": ["Barioth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -946,7 +1033,8 @@
                 "name": "A Friend in Need",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Tigrex"],
+                "stars": 3,
+                "target": ["Tigrex"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -955,7 +1043,8 @@
                 "name": "A Few Bumps Along the Way",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Diablos"],
+                "stars": 3,
+                "target": ["Diablos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -964,7 +1053,8 @@
                 "name": "Hellfire",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Magnamalo"],
+                "stars": 3,
+                "target": ["Magnamalo"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -973,7 +1063,8 @@
                 "name": "Tail to Tail",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Bishaten", "Almudron"],
+                "stars": 3,
+                "target": ["Bishaten", "Almudron"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -982,7 +1073,8 @@
                 "name": "Beastly Chaos",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Tigrex", "Goss Harag"],
+                "stars": 3,
+                "target": ["Tigrex", "Goss Harag"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -991,7 +1083,8 @@
                 "name": "Disastrously Beautiful",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Barroth", "Tobi-Kadachi", "Magnamalo"],
+                "stars": 3,
+                "target": ["Barroth", "Tobi-Kadachi", "Magnamalo"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1000,7 +1093,8 @@
                 "name": "The Swirling Gale",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Great Izuchi"],
+                "stars": 4,
+                "target": ["Great Izuchi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1009,7 +1103,8 @@
                 "name": "Divine Comedy",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Arzuros", "Kulu-Ya-Ku"],
+                "stars": 4,
+                "target": ["Arzuros", "Kulu-Ya-Ku"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1018,7 +1113,8 @@
                 "name": "Didn't Get the Memo",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Great Baggi", "Great Baggi"],
+                "stars": 4,
+                "target": ["Great Baggi", "Great Baggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1027,7 +1123,8 @@
                 "name": "Dancing A-purr-ition",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Aknosom"],
+                "stars": 4,
+                "target": ["Aknosom"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1036,7 +1133,8 @@
                 "name": "The Frost Islands Arena",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Tetranadon"],
+                "stars": 4,
+                "target": ["Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1045,7 +1143,8 @@
                 "name": "Even Cute Things Have Fangs",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Lagombi"],
+                "stars": 4,
+                "target": ["Lagombi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1054,7 +1153,8 @@
                 "name": "Night of the Khezu",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Khezu"],
+                "stars": 4,
+                "target": ["Khezu"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1063,7 +1163,8 @@
                 "name": "Dango Duty",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Izuchi", "Baggi"],
+                "stars": 4,
+                "target": ["Izuchi", "Baggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -1072,7 +1173,8 @@
                 "name": "Totally Not Cool, Kulu!",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Kulu-Ya-Ku", "Kulu-Ya-Ku"],
+                "stars": 4,
+                "target": ["Kulu-Ya-Ku", "Kulu-Ya-Ku"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1081,7 +1183,8 @@
                 "name": "Study the Sword & Shield",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Aknosom"],
+                "stars": 4,
+                "target": ["Aknosom"],
                 "quest_type": "Hub",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -1090,7 +1193,8 @@
                 "name": "Honing you Hunting Horn",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Great Izuchi", "Tetranadon"],
+                "stars": 4,
+                "target": ["Great Izuchi", "Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1099,7 +1203,8 @@
                 "name": "Study the Switch Axe",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Lagombi", "Khezu"],
+                "stars": 4,
+                "target": ["Lagombi", "Khezu"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1108,7 +1213,8 @@
                 "name": "Learning the Light Bowgun",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Great Baggi", "Great Wroggi"],
+                "stars": 4,
+                "target": ["Great Baggi", "Great Wroggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1117,7 +1223,8 @@
                 "name": "Donning Toxicity",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Great Wroggi"],
+                "stars": 4,
+                "target": ["Great Wroggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1126,7 +1233,8 @@
                 "name": "Lost and Found",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Jagras", "Bullfango"],
+                "stars": 4,
+                "target": ["Jagras", "Bullfango"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -1135,7 +1243,8 @@
                 "name": "Blue, Round, and Cute",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Arzuros"],
+                "stars": 4,
+                "target": ["Arzuros"],
                 "quest_type": "Hub",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -1144,7 +1253,8 @@
                 "name": "Foul Play in the Forest",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Royal Ludroth"],
+                "stars": 5,
+                "target": ["Royal Ludroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1153,7 +1263,8 @@
                 "name": "Rise above the Mud",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Barroth"],
+                "stars": 5,
+                "target": ["Barroth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1162,7 +1273,8 @@
                 "name": "Bowled Over",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Volvidon", "Volvidon"],
+                "stars": 5,
+                "target": ["Volvidon", "Volvidon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1171,7 +1283,8 @@
                 "name": "Rotten Fruit",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Bishaten"],
+                "stars": 5,
+                "target": ["Bishaten"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1180,7 +1293,8 @@
                 "name": "Go Away, Pukei!",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Pukei-Pukei"],
+                "stars": 5,
+                "target": ["Pukei-Pukei"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1189,7 +1303,8 @@
                 "name": "Miner Problem",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Basarios"],
+                "stars": 5,
+                "target": ["Basarios"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1198,7 +1313,8 @@
                 "name": "Charmed by a Queen",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Rathian"],
+                "stars": 5,
+                "target": ["Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1207,7 +1323,8 @@
                 "name": "The Restless Swamp",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Jyuratodus"],
+                "stars": 5,
+                "target": ["Jyuratodus"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1216,7 +1333,8 @@
                 "name": "Grasp the Great Sword",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Bishaten", "Bishaten"],
+                "stars": 5,
+                "target": ["Bishaten", "Bishaten"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1225,7 +1343,8 @@
                 "name": "Honing Your Hammer",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Barroth", "Pukei-Pukei"],
+                "stars": 5,
+                "target": ["Barroth", "Pukei-Pukei"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1234,7 +1353,8 @@
                 "name": "Learn the Lance",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Rathian"],
+                "stars": 5,
+                "target": ["Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -1243,7 +1363,8 @@
                 "name": "Charge Blade Coalescing",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Royal Ludroth", "Jyuratodus"],
+                "stars": 5,
+                "target": ["Royal Ludroth", "Jyuratodus"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1252,7 +1373,8 @@
                 "name": "Hone Your Heavy Bowgun",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Volvidon", "Basarios"],
+                "stars": 5,
+                "target": ["Volvidon", "Basarios"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1261,7 +1383,8 @@
                 "name": "Bad Review",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Rhenoplos", "Kestodon"],
+                "stars": 5,
+                "target": ["Rhenoplos", "Kestodon"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -1270,7 +1393,8 @@
                 "name": "Flooded Forest Fiasco",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Ludroth", "Wroggi"],
+                "stars": 5,
+                "target": ["Ludroth", "Wroggi"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -1279,7 +1403,8 @@
                 "name": "Shadows Over the Frost",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 5, "target": ["Khezu", "Tetranadon"],
+                "stars": 5,
+                "target": ["Khezu", "Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1288,7 +1413,8 @@
                 "name": "Skies Flash, Clouds Boom",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Zinogre"],
+                "stars": 6,
+                "target": ["Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1297,7 +1423,8 @@
                 "name": "A Somnaferous Elegy",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Somnacanth"],
+                "stars": 6,
+                "target": ["Somnacanth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1306,7 +1433,8 @@
                 "name": "Barioth",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Barioth"],
+                "stars": 6,
+                "target": ["Barioth"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1315,7 +1443,8 @@
                 "name": "Skies are Gray",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Tobi-Kadachi"],
+                "stars": 6,
+                "target": ["Tobi-Kadachi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1324,7 +1453,8 @@
                 "name": "Closer Than it Appears",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Anjanath"],
+                "stars": 6,
+                "target": ["Anjanath"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1333,7 +1463,8 @@
                 "name": "The Abyss Stares Back",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Nargacuga"],
+                "stars": 6,
+                "target": ["Nargacuga"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1342,7 +1473,8 @@
                 "name": "Red Skies at Night",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Rathalos"],
+                "stars": 6,
+                "target": ["Rathalos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1351,7 +1483,8 @@
                 "name": "A Bewitching Dance",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Mizutsune"],
+                "stars": 6,
+                "target": ["Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1360,7 +1493,8 @@
                 "name": "Do It for the Dango!",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Nargacuga", "Jyuratodus"],
+                "stars": 6,
+                "target": ["Nargacuga", "Jyuratodus"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1369,7 +1503,8 @@
                 "name": "Learn the Long Sword",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Zinogre", "Mizutsune"],
+                "stars": 6,
+                "target": ["Zinogre", "Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1378,7 +1513,8 @@
                 "name": "Dissect the Dual Blades",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Anjanath", "Rathian"],
+                "stars": 6,
+                "target": ["Anjanath", "Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1387,7 +1523,8 @@
                 "name": "Grasp the Gunlance",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Barioth"],
+                "stars": 6,
+                "target": ["Barioth"],
                 "quest_type": "Hub",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -1396,7 +1533,8 @@
                 "name": "Invoke the Insect Glaive",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Somnacanth", "Aknosom"],
+                "stars": 6,
+                "target": ["Somnacanth", "Aknosom"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1405,7 +1543,8 @@
                 "name": "Be One with the Bow",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Tobi-Kadachi", "Tobi-Kadachi"],
+                "stars": 6,
+                "target": ["Tobi-Kadachi", "Tobi-Kadachi"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1414,7 +1553,8 @@
                 "name": "The Lava Caverns Sweep",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Uroktor", "Rachnoid"],
+                "stars": 6,
+                "target": ["Uroktor", "Rachnoid"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": false
@@ -1423,7 +1563,8 @@
                 "name": "Showdown in the Arena",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Anjanath", "Mizutsune", "Zinogre"],
+                "stars": 6,
+                "target": ["Anjanath", "Mizutsune", "Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1432,7 +1573,8 @@
                 "name": "It's Gonna Get You!",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Goss Harag"],
+                "stars": 7,
+                "target": ["Goss Harag"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1441,7 +1583,8 @@
                 "name": "Clad in Hellfire",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Magnamalo"],
+                "stars": 7,
+                "target": ["Magnamalo"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1450,7 +1593,8 @@
                 "name": "A Muddy Invitation",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Almudron"],
+                "stars": 7,
+                "target": ["Almudron"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1459,7 +1603,8 @@
                 "name": "Subterranean Disturbances",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Diablos"],
+                "stars": 7,
+                "target": ["Diablos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1468,7 +1613,8 @@
                 "name": "A Resounding Roar",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Tigrex"],
+                "stars": 7,
+                "target": ["Tigrex"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1477,7 +1623,8 @@
                 "name": "Evil Afoot",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rajang"],
+                "stars": 7,
+                "target": ["Rajang"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1486,7 +1633,8 @@
                 "name": "Can't Kill It with Fire",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rakna-Kadaki"],
+                "stars": 7,
+                "target": ["Rakna-Kadaki"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1495,7 +1643,8 @@
                 "name": "Serpent Goddess of Thunder",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Thunder Serpent Narwa"],
+                "stars": 7,
+                "target": ["Thunder Serpent Narwa"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1504,7 +1653,8 @@
                 "name": "Seared Situation",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rathalos", "Magnamalo"],
+                "stars": 7,
+                "target": ["Rathalos", "Magnamalo"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1513,7 +1663,8 @@
                 "name": "A Quartet of Horns",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Diablos", "Diablos"],
+                "stars": 7,
+                "target": ["Diablos", "Diablos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1522,7 +1673,8 @@
                 "name": "Ruckus in the Ruins",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Almudron", "Mizutsune"],
+                "stars": 7,
+                "target": ["Almudron", "Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1531,7 +1683,8 @@
                 "name": "A Frosty Stalemate",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Goss Harag", "Tetranadon"],
+                "stars": 7,
+                "target": ["Goss Harag", "Tetranadon"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1540,7 +1693,8 @@
                 "name": "Fought, Failed, Fired Up",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Diablos", "Anjanath"],
+                "stars": 7,
+                "target": ["Diablos", "Anjanath"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1549,7 +1703,8 @@
                 "name": "Occupational Hazards",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rajang", "Zinogre"],
+                "stars": 7,
+                "target": ["Rajang", "Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1558,7 +1713,8 @@
                 "name": "Omnidirectional Threats",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rakna-Kadaki", "Khezu"],
+                "stars": 7,
+                "target": ["Rakna-Kadaki", "Khezu"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1567,8 +1723,8 @@
                 "name": "A Whirlwind of a Stage",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Tobi-Kadachi", "Nargacuga",
-                                       "Tigrex"],
+                "stars": 7,
+                "target": ["Tobi-Kadachi", "Nargacuga", "Tigrex"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1577,7 +1733,8 @@
                 "name": "Ancient Illusion",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Chameleos"],
+                "stars": 7,
+                "target": ["Chameleos"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1586,7 +1743,8 @@
                 "name": "The Steely Storm",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Kushala Daora"],
+                "stars": 7,
+                "target": ["Kushala Daora"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1595,7 +1753,8 @@
                 "name": "The Emperor of Flame",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Teostra"],
+                "stars": 7,
+                "target": ["Teostra"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1604,7 +1763,8 @@
                 "name": "A Blaze Among Beasts",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rathian", "Tigrex", "Rakna-Kadaki"],
+                "stars": 7,
+                "target": ["Rathian", "Tigrex", "Rakna-Kadaki"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1613,7 +1773,8 @@
                 "name": "May Fire Quell Fury",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rajang"],
+                "stars": 7,
+                "target": ["Rajang"],
                 "quest_type": "Hub",
                 "hunt_type": "Capture",
                 "large_monster": true
@@ -1622,7 +1783,8 @@
                 "name": "Return of the Bazelgeuse",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Bazelgeuse"],
+                "stars": 7,
+                "target": ["Bazelgeuse"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1631,7 +1793,8 @@
                 "name": "The Avaricious Apex Arzuros",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Arzuros"],
+                "stars": 7,
+                "target": ["Apex Arzuros"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1640,7 +1803,8 @@
                 "name": "The Graceful Apex Rathian",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Rathian"],
+                "stars": 7,
+                "target": ["Apex Rathian"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1649,7 +1813,8 @@
                 "name": "The Harlequin Apex Mizutsune",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Mizutsune"],
+                "stars": 7,
+                "target": ["Apex Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1658,7 +1823,8 @@
                 "name": "Master Utsushi's Challenge Part 1",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Almudron", "Zinogre"],
+                "stars": 7,
+                "target": ["Almudron", "Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1667,7 +1833,8 @@
                 "name": "Master Utsushi's Challenge Part 2",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Goss Harag", "Rajang"],
+                "stars": 7,
+                "target": ["Goss Harag", "Rajang"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1676,7 +1843,8 @@
                 "name": "Master Utsushi's Challenge Part 3",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Magnamalo", "Nargacuga"],
+                "stars": 7,
+                "target": ["Magnamalo", "Nargacuga"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1685,7 +1853,8 @@
                 "name": "Master Utsushi's Challenge Part 4",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Tigrex", "Anjanath"],
+                "stars": 7,
+                "target": ["Tigrex", "Anjanath"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1694,7 +1863,8 @@
                 "name": "Master Utsushi's Challenge Part 5",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Rakna-Kadaki", "Rathalos"],
+                "stars": 7,
+                "target": ["Rakna-Kadaki", "Rathalos"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1703,7 +1873,8 @@
                 "name": "The Allmother",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Thunder Serpent Narwa", "Wind Serpent Ibushi"],
+                "stars": 7,
+                "target": ["Thunder Serpent Narwa", "Wind Serpent Ibushi"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1712,7 +1883,8 @@
                 "name": "The Evil Star from Beyond",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Crimson Glow Valstrax"],
+                "stars": 7,
+                "target": ["Crimson Glow Valstrax"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1721,7 +1893,8 @@
                 "name": "The Fearsome Apex Rathalos",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Rathalos"],
+                "stars": 7,
+                "target": ["Apex Rathalos"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1730,7 +1903,8 @@
                 "name": "The Devastating Apex Diablos",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Diablos"],
+                "stars": 7,
+                "target": ["Apex Diablos"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1739,7 +1913,8 @@
                 "name": "The Voltaic Apex Zinogre",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Zinogre"],
+                "stars": 7,
+                "target": ["Apex Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1748,7 +1923,8 @@
                 "name": "Advanced: Dual Calamites",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Magnamalo", "Bazelgeuse"],
+                "stars": 7,
+                "target": ["Magnamalo", "Bazelgeuse"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1757,7 +1933,8 @@
                 "name": "Advanced: target in Ink",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Goss Harag", "Tigrex", "Mizutsune"],
+                "stars": 7,
+                "target": ["Goss Harag", "Tigrex", "Mizutsune"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1766,7 +1943,8 @@
                 "name": "Advanced: Of Storm and Fire",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Kushala Daora", "Teostra"],
+                "stars": 7,
+                "target": ["Kushala Daora", "Teostra"],
                 "quest_type": "Hub",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1775,7 +1953,8 @@
                 "name": "Advanced: Scaredy-Cat",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Chameleos", "Rajang"],
+                "stars": 7,
+                "target": ["Chameleos", "Rajang"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1784,7 +1963,8 @@
                 "name": "Advanced: The Fallen Comet",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Crimson Glow Valstrax", "Rakna-Kadaki"],
+                "stars": 7,
+                "target": ["Crimson Glow Valstrax", "Rakna-Kadaki"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1793,7 +1973,8 @@
                 "name": "Advanced: Proof of Power",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Diablos", "Rathalos", "Magnamalo"],
+                "stars": 7,
+                "target": ["Diablos", "Rathalos", "Magnamalo"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1802,7 +1983,8 @@
                 "name": "Advanced: Those Crowned Apex",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Mizutsune", "Apex Rathalos", "Apex Zinogre"],
+                "stars": 7,
+                "target": ["Apex Mizutsune", "Apex Rathalos", "Apex Zinogre"],
                 "quest_type": "Hub",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1811,7 +1993,8 @@
                 "name": "Out of Sight, Out of Mind's Eye",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 6, "target": ["Tetranadon"],
+                "stars": 6,
+                "target": ["Tetranadon"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1820,7 +2003,8 @@
                 "name": "Beast of the Shadows",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Nargacuga"],
+                "stars": 7,
+                "target": ["Nargacuga"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1829,7 +2013,8 @@
                 "name": "Haste Makes Waste",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Apex Arzuros"],
+                "stars": 7,
+                "target": ["Apex Arzuros"],
                 "quest_type": "Event",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1838,7 +2023,8 @@
                 "name": "I Can't Do What Somnacan",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Somnacanth"],
+                "stars": 7,
+                "target": ["Somnacanth"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1847,7 +2033,8 @@
                 "name": "Dancing Parasol, Snowy Breeze",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 4, "target": ["Aknosom"],
+                "stars": 4,
+                "target": ["Aknosom"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1856,7 +2043,8 @@
                 "name": "Heart of a Ninja",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Tobi-Kadachi", "Barioth", "Nargacuga"],
+                "stars": 7,
+                "target": ["Tobi-Kadachi", "Barioth", "Nargacuga"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1874,7 +2062,8 @@
                 "name": "Fooled in the Flooded Forest",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Chameleos"],
+                "stars": 7,
+                "target": ["Chameleos"],
                 "quest_type": "Event",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1883,7 +2072,8 @@
                 "name": "Heart of a Hero",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Tigrex", "Diablos"],
+                "stars": 7,
+                "target": ["Tigrex", "Diablos"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1892,7 +2082,8 @@
                 "name": "Heart of a Warrior",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 3, "target": ["Goss Harag", "Magnamalo"],
+                "stars": 3,
+                "target": ["Goss Harag", "Magnamalo"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1901,7 +2092,8 @@
                 "name": "Bird Wyverns of Ruin?",
                 "quest_counter": "Hub",
                 "rank": "Low",
-                "stars": 1, "target": ["Great Baggi", "Great Izuchi", "Great Wroggi"],
+                "stars": 1,
+                "target": ["Great Baggi", "Great Izuchi", "Great Wroggi"],
                 "quest_type": "Event",
                 "hunt_type": "Hunt",
                 "large_monster": true
@@ -1910,16 +2102,28 @@
                 "name": "Rampage: Muddi Gras",
                 "quest_counter": "Hub",
                 "rank": "High",
-                "stars": 7, "target": ["Bishaten", "Almudron"],
+                "stars": 7,
+                "target": ["Bishaten", "Almudron"],
                 "quest_type": "Event",
                 "hunt_type": "Rampage",
+                "large_monster": true
+              },
+              {
+                "name": "Rising Sun!?",
+                "quest_counter": "Hub",
+                "rank": "Low",
+                "stars": 2,
+                "target": ["Sun Goddess Pictures"],
+                "quest_type": "Event",
+                "hunt_type": "Deliver",
                 "large_monster": true
               },
               {
                 "name": "Arena 01",
                 "quest_counter": "Arena",
                 "rank": "Low",
-                "stars": 1, "target": ["Kulu-Ya-Ku"],
+                "stars": 1,
+                "target": ["Kulu-Ya-Ku"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1928,7 +2132,8 @@
                 "name": "Arena 02",
                 "quest_counter": "Arena",
                 "rank": "Low",
-                "stars": 2, "target": ["Barroth"],
+                "stars": 2,
+                "target": ["Barroth"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1937,7 +2142,8 @@
                 "name": "Arena 03",
                 "quest_counter": "Arena",
                 "rank": "Low",
-                "stars": 3, "target": ["Royal Ludroth", "Nargacuga"],
+                "stars": 3,
+                "target": ["Royal Ludroth", "Nargacuga"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1946,7 +2152,8 @@
                 "name": "Arena 04",
                 "quest_counter": "Arena",
                 "rank": "High",
-                "stars": 6, "target": ["Barioth"],
+                "stars": 6,
+                "target": ["Barioth"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1955,7 +2162,8 @@
                 "name": "Arena 05",
                 "quest_counter": "Arena",
                 "rank": "High",
-                "stars": 7, "target": ["Rajang"],
+                "stars": 7,
+                "target": ["Rajang"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1964,7 +2172,8 @@
                 "name": "Arena 06",
                 "quest_counter": "Arena",
                 "rank": "High",
-                "stars": 7, "target": ["Volvidon", "Basarios", "Bazelgeuse"],
+                "stars": 7,
+                "target": ["Volvidon", "Basarios", "Bazelgeuse"],
                 "quest_type": "Arena",
                 "hunt_type": "Slay",
                 "large_monster": true
@@ -1973,10 +2182,22 @@
                 "name": "Challenge Quest 01",
                 "quest_counter": "Arena",
                 "rank": "Low",
-                "stars": 2, "target": ["Tetranadon"],
+                "stars": 2,
+                "target": ["Tetranadon"],
                 "quest_type": "Challenge",
                 "hunt_type": "Slay",
-                "large_monster": true}
+                "large_monster": true
+              },
+              {
+                "name": "Challenge Quest 02",
+                "quest_counter": "Arena",
+                "rank": "High",
+                "stars": 6,
+                "target": ["Zinogre"],
+                "quest_type": "Challenge",
+                "hunt_type": "Slay",
+                "large_monster": true
+              }
             ]
   }
 }
