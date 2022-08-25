@@ -79,6 +79,13 @@
     "tooltip": "Enable high rank quests",
     "group": "MH:Rise Quest Filter"
   },
+  "IncludeMasterRank": {
+    "type": "checkbox",
+    "value": true,
+    "label": "High Master Quests",
+    "tooltip": "Enable master rank quests",
+    "group": "MH:Rise Quest Filter"
+  },
   "IncludeVillage": {
     "type": "checkbox",
     "value": true,
